@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../platform/What\u0027s New.htm'],s:['0','condi','ever','ispla','ntegr','render','twili'],p:[['0',0]]});

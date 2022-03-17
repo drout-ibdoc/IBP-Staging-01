@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 r3 Generated TEST - IB Platform User Guide - HTML 2021.fltar" Date="2022-03-17T14:40:51.3008122+05:30" Branch="6.4.x" Commit="a21d7aab5c1c59a0cd333ea99e1e3ff8530d0ae3">
+    <Messages>Compiling target TEST - IB Platform User Guide - HTML 2021...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Primary TOC...
+Processing Primary TOC...
+Generating Glossary...
+Collecting source files...
+Processing source files...
+Generating output files...
+Processing topic: platform\What's New.htm...
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Communication logs.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Exporting from views and reports.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/Resources/Additional Files/RESTv2.html.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Configuring Administrative Preferences.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Control Panel.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/UI Configurator.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/React UI.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Multi-Factor Authentication.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/License Management Portal.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/rbv_api.runTrigger().htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Creating portals with authentication.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Installing an application from GIT Commit History.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Installing and updating applications from XML.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Account administration and security settings.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/GraalVM JavaScript.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Change Password for Portal Users.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Monitoring setup.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Components.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Batch jobs.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Shared Properties.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/rbf_includeFusionChartsLibrary.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Using S3 Compatible Storage.htm.
+Excluded from output:file:///C:/Work/Platform_User_Guide/6.0/Content/platform/Disabling records using Condition formulas.htm.
+Processing CSS: Resources\Stylesheets\ib_platform.css...
+Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Resources\Images\arrow-right.png
+Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Resources\Images\arrow-down.png
+Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Images\icons\note.png
+Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Images\icons\example.png
+Image "MFA_1.png" regenerated for "" medium: img\MFA_1.png
+Applying template page MasterPage.flmsp...
+Generated platform\What's New.htm
+Generating output skins...
+Generating synonyms file...
+Generating alias file...
+Generating alias file: Missing topic: /Content/Welcome.htm
+Generating alias file: Missing topic: /Content/Welcome.htm
+Generating alias file: Missing topic: /Content/platform/Introduction to Infinite Blue Platform.htm
+Generating alias file: Missing topic: /Content/platform/Navigating the Platform environment.htm
+Generating alias file: Missing topic: /Content/platform/Search.htm
+Generating alias file: Missing topic: /Content/platform/Sample applications.htm
+Generating alias file: Missing topic: /Content/platform/What's New in Platform 5.6.htm
+Generating alias file: Missing topic: /Content/platform/Upgrading Private Cloud to Version 4.x.htm
+Generating alias file: Missing topic: /Content/platform/Application foundation.htm
+Generating alias file: Missing topic: /Content/platform/Business logic and customizing the user experience.htm
+Generating alias file: Missing topic: /Content/platform/Setting up accounts for testing.htm
+Generating alias file: Missing topic: /Content/platform/Distribution options.htm
+Generating alias file: Missing topic: /Content/platform/Laying the foundation.htm
+Generating alias file: Missing topic: /Content/platform/Getting started with the Quick Create wizard.htm
+Generating alias file: Missing topic: /Content/platform/Creating and managing objects, fields, and relationships.htm
+Generating alias file: Missing topic: /Content/platform/Views.htm
+Generating alias file: Missing topic: /Content/platform/Creating and managing applications.htm
+Generating alias file: Missing topic: /Content/platform/Creating an application your way.htm
+Generating alias file: Missing topic: /Content/platform/Editing applications.htm
+Generating alias file: Missing topic: /Content/platform/Application actions.htm
+Generating alias file: Missing topic: /Content/platform/Generate XML.htm
+Generating alias file: Topic excluded from output: /Content/platform/Installing and updating applications from XML.htm
+Generating alias file: Missing topic: /Content/platform/Relationships between objects.htm
+Generating alias file: Missing topic: /Content/platform/Working with records.htm
+Generating alias file: Missing topic: /Content/platform/Adding business logic.htm
+Generating alias file: Missing topic: /Content/platform/Working with templates.htm
+Generating alias file: Missing topic: /Content/platform/Formulas.htm
+Generating alias file: Missing topic: /Content/platform/Trigger overview.htm
+Generating alias file: Missing topic: /Content/platform/Developing a Custom Trigger.htm
+Generating alias file: Missing topic: /Content/platform/Workflow overview.htm
+Generating alias file: Missing topic: /Content/platform/Approvals.htm
+Generating alias file: Missing topic: /Content/platform/Reports, charts, and gauges.htm
+Generating alias file: Missing topic: /Content/platform/Working with reports.htm
+Generating alias file: Missing topic: /Content/platform/About Custom Reports.htm
+Generating alias file: Missing topic: /Content/platform/Applying Filters to a Custom Report.htm
+Generating alias file: Missing topic: /Content/platform/Working with charts.htm
+Generating alias file: Missing topic: /Content/platform/Working with gauges.htm
+Generating alias file: Missing topic: /Content/platform/Multi-currency support.htm
+Generating alias file: Missing topic: /Content/platform/Surveys and quizzes.htm
+Generating alias file: Missing topic: /Content/platform/Customizing the user experience.htm
+Generating alias file: Missing topic: /Content/platform/Pages, the page editor, and grid controls.htm
+Generating alias file: Missing topic: /Content/platform/Using grid controls to manage multiple records.htm
+Generating alias file: Missing topic: /Content/platform/Using buttons on pages.htm
+Generating alias file: Missing topic: /Content/platform/Creating and editing views.htm
+Generating alias file: Missing topic: /Content/platform/Filter criteria.htm
+Generating alias file: Missing topic: /Content/platform/Color coding rows.htm
+Generating alias file: Missing topic: /Content/platform/HTML event handlers.htm
+Generating alias file: Missing topic: /Content/platform/Platform AJAX APIs.htm
+Generating alias file: Missing topic: /Content/platform/Platform portals.htm
+Generating alias file: Missing topic: /Content/platform/Hosted files.htm
+Generating alias file: Missing topic: /Content/platform/Supporting mobile users.htm
+Generating alias file: Missing topic: /Content/Welcome.htm
+Generating alias file: Missing topic: /Content/Welcome.htm
+Generating alias file: Missing topic: /Content/platform/Using the Views first approach.htm
+Generating alias file: Missing topic: /Content/platform/Configure JSDO settings.htm
+Generating alias file: Missing topic: /Content/platform/Test the app.htm
+Generating alias file: Missing topic: /Content/platform/Creating Platform objects from OpenEdge Object Services.htm
+Generating alias file: Missing topic: /Content/platform/Using DataDirect Hybrid Data Pipeline to access external data.htm
+Generating alias file: Missing topic: /Content/platform/Creating a Platform application from Microsoft Access.htm
+Generating alias file: Missing topic: /Content/platform/Creating a Platform application from a Salesforce application.htm
+Generating alias file: Missing topic: /Content/platform/Using external tables as Platform objects.htm
+Generating alias file: Missing topic: /Content/platform/Importing data.htm
+Generating alias file: Missing topic: /Content/platform/Deleting multiple records by importing a spreadsheet.htm
+Generating alias file: Topic excluded from output: /Content/platform/Exporting from views and reports.htm
+Generating alias file: Missing topic: /Content/platform/Integrating with Google applications.htm
+Generating alias file: Missing topic: /Content/platform/Enabling Google integration.htm
+Generating alias file: Missing topic: /Content/platform/Using SOAP or REST to integrate with Platform.htm
+Generating alias file: Missing topic: /Content/platform/Creating Progress Data Catalogs for external applications.htm
+Generating alias file: Missing topic: /Content/platform/Security and access control.htm
+Generating alias file: Missing topic: /Content/platform/Whitelist IP addresses.htm
+Generating alias file: Missing topic: /Content/platform/Access control.htm
+Generating alias file: Missing topic: /Content/platform/Role-based access control.htm
+Generating alias file: Missing topic: /Content/platform/Creating and editing user roles.htm
+Generating alias file: Missing topic: /Content/platform/Location, department or function permissions.htm
+Generating alias file: Missing topic: /Content/platform/Publishing and distributing applications.htm
+Generating alias file: Missing topic: /Content/platform/Publishing to the Marketplace App.htm
+Generating alias file: Missing topic: /Content/platform/Generating application XML.htm
+Generating alias file: Missing topic: /Content/platform/Advanced setup and administration.htm
+Generating alias file: Missing topic: /Content/platform/Profile Settings options.htm
+Generating alias file: Missing topic: /Content/platform/Administration setup.htm
+Generating alias file: Missing topic: /Content/platform/Backup and restore.htm
+Generating alias file: Topic excluded from output: /Content/platform/Batch jobs.htm
+Generating alias file: Topic excluded from output: /Content/platform/Monitoring setup.htm
+Generating alias file: Missing topic: /Content/platform/Language support.htm
+Generating alias file: Missing topic: /Content/platform/Enabling Google Apps for Platform Private Cloud.htm
+Generating alias file: Missing topic: /Content/platform/Introduction.htm
+Generating alias file: Missing topic: /Content/platform/Installation.htm
+Generating alias file: Topic excluded from output: /Content/platform/Shared Properties.htm
+Generating alias file: Topic excluded from output: /Content/platform/Control Panel.htm
+Generating alias file: Missing topic: /Content/platform/Monitoring.htm
+Generating alias file: Missing topic: /Content/platform/Supported Methods to Authenticate Users.htm
+Generating alias file: Missing topic: /Content/platform/Creating an Authentication Profile.htm
+Generating alias file: Missing topic: /Content/platform/Built-in security levels.htm
+Generating alias file: Missing topic: /Content/platform/Custom validation formulas.htm
+Generating alias file: Missing topic: /Content/platform/Custom Authentication for Private Cloud.htm
+Generating alias file: Missing topic: /Content/platform/API authentication.htm
+Generating alias file: Missing topic: /Content/platform/Configuration file reference.htm
+Generating alias file: Missing topic: /Content/platform/Setup and administration for ISVs.htm
+Generating alias file: Missing topic: /Content/platform/Using Amazon S3.htm
+Generating alias file: Missing topic: /Content/platform/Using Microsoft Azure.htm
+Generating alias file: Missing topic: /Content/platform/Server-side API.htm
+Generating alias file: Missing topic: /Content/platform/Client-side AJAX API.htm
+Generating alias file: Missing topic: /Content/platform/Code Generator.htm
+Generating alias file: Missing topic: /Content/platform/Metadata API and XML Reference.htm
+Generating alias file: Missing topic: /Content/platform/Platform REST Methods.htm
+Generating alias file: Missing topic: /Content/platform/Platform CSS Styles for the Classic UI.htm
+Generating alias file: Missing topic: /Content/platform/Field types.htm
+Generating alias file: Missing topic: /Content/platform/Platform SOAP Methods.htm
+Generating alias file: Missing topic: /Content/platform/Dedicated Tables.htm
+Generating alias file: Missing topic: /Content/platform/Control Panel.htm#GIT_Integration
+Generating alias file: Missing topic: /Content/platform/Adding columns to a Private Cloud database.htm
+Generating final TOC...
+Generating language strings...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Generating Template Topics...
+Generating Search.htm...
+Topic marked 'not searchable': Search.htm...
+Applying template page MasterPage.flmsp...
+Generated Search.htm
+Resolving links in output files...
+Generating Search Database...
+Writing search entry cache...
+Generating final output...
+Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
+Generated Skins\Default\Stylesheets\Topic.micro-content.css
+Generated Default.htm
+Saving result set...
+Ignored Compiler Warnings: 9
+Output generated in 20 second(s).
+
+Done
+Saving log to "C:\Users\DilipRout\Desktop\Madcap Test Output\HTML\Output\TEST - IB Platform User Guide - HTML 2021\TEST - IB Platform User Guide - HTML 2021.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Resources/Stylesheets/ib_platform.css" Message="Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Resources\Images\arrow-right.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/ib_platform.css" Message="Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Resources\Images\arrow-down.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/ib_platform.css" Message="Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Images\icons\note.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/ib_platform.css" Message="Missing linked source file: C:\Work\Platform_User_Guide\6.0\Content\Images\icons\example.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="10001" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/Welcome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/Welcome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Introduction to Infinite Blue Platform.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Navigating the Platform environment.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Search.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Sample applications.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/What's New in Platform 5.6.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Upgrading Private Cloud to Version 4.x.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Application foundation.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Business logic and customizing the user experience.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Setting up accounts for testing.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Distribution options.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Laying the foundation.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Getting started with the Quick Create wizard.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating and managing objects, fields, and relationships.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Views.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating and managing applications.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating an application your way.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Editing applications.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Application actions.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Generate XML.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Topic excluded from output: /Content/platform/Installing and updating applications from XML.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20017" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Relationships between objects.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Working with records.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Adding business logic.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Working with templates.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Formulas.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Trigger overview.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Developing a Custom Trigger.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Workflow overview.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Approvals.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Reports, charts, and gauges.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Working with reports.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/About Custom Reports.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Applying Filters to a Custom Report.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Working with charts.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Working with gauges.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Multi-currency support.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Surveys and quizzes.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Customizing the user experience.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Pages, the page editor, and grid controls.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using grid controls to manage multiple records.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using buttons on pages.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating and editing views.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Filter criteria.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Color coding rows.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/HTML event handlers.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Platform AJAX APIs.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Platform portals.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Hosted files.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Supporting mobile users.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/Welcome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/Welcome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using the Views first approach.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Configure JSDO settings.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Test the app.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating Platform objects from OpenEdge Object Services.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using DataDirect Hybrid Data Pipeline to access external data.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating a Platform application from Microsoft Access.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating a Platform application from a Salesforce application.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using external tables as Platform objects.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Importing data.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Deleting multiple records by importing a spreadsheet.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Topic excluded from output: /Content/platform/Exporting from views and reports.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20017" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Integrating with Google applications.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Enabling Google integration.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using SOAP or REST to integrate with Platform.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating Progress Data Catalogs for external applications.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Security and access control.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Whitelist IP addresses.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Access control.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Role-based access control.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating and editing user roles.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Location, department or function permissions.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Publishing and distributing applications.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Publishing to the Marketplace App.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Generating application XML.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Advanced setup and administration.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Profile Settings options.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Administration setup.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Backup and restore.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Topic excluded from output: /Content/platform/Batch jobs.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20017" />
+        <LogEntry Message="Generating alias file: Topic excluded from output: /Content/platform/Monitoring setup.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20017" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Language support.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Enabling Google Apps for Platform Private Cloud.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Introduction.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Installation.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Topic excluded from output: /Content/platform/Shared Properties.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20017" />
+        <LogEntry Message="Generating alias file: Topic excluded from output: /Content/platform/Control Panel.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20017" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Monitoring.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Supported Methods to Authenticate Users.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Creating an Authentication Profile.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Built-in security levels.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Custom validation formulas.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Custom Authentication for Private Cloud.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/API authentication.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Configuration file reference.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Setup and administration for ISVs.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using Amazon S3.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Using Microsoft Azure.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Server-side API.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Client-side AJAX API.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Code Generator.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Metadata API and XML Reference.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Platform REST Methods.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Platform CSS Styles for the Classic UI.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Field types.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Platform SOAP Methods.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Dedicated Tables.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Control Panel.htm#GIT_Integration&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+        <LogEntry Message="Generating alias file: Missing topic: /Content/platform/Adding columns to a Private Cloud database.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TEST - IB Platform User Guide - HTML 2021" ErrorID="20016" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

@@ -1,0 +1,1 @@
+define({'/platform/What\u0027s New.htm':{i:[0],t:['What\u0027s New in Infinite Blue Platform'],b:['']}});
