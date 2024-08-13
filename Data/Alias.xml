@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CatapultAliasFile>
+    <Map Name="Welcome" Link="Welcome.htm" ResolvedId="1007" />
+    <Map Name="Getting_help" Link="Welcome.htm" ResolvedId="1008" />
+    <Map Name="telerik-ovr" Link="Welcome.htm" ResolvedId="1058" />
+    <Map Name="data-catalog" Link="Welcome.htm" ResolvedId="1059" />
 </CatapultAliasFile>

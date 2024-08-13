@@ -1,1 +1,1 @@
-define({"../platform/What\u0027s New.htm":0,});
+define({"../platform/What\u0027s New.htm":0,"../release-history/Release Notes NEW.htm":1,});

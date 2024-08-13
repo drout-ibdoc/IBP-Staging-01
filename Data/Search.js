@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../platform/What\u0027s New.htm'],s:['0','condi','ever','ispla','ntegr','render','twili'],p:[['0',0]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../platform/What\u0027s New.htm'],s:['0','addi','ataba','cce','cro','eada','endered','etrelati','grate','ime','issio','litc','mplem','novembe','ondata','paramete','queri','ribe','shin','synchro','tless','upd','youtli'],p:[['0',0],['cloning',1],['infinite',1],['public',1],['validation',1]]});
