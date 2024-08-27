@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" class="_Skins_sidenav" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-toc-path="Adding business logic |Working with templates|Template token syntax" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" class="_Skins_Side_Nav_2023_feb" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-toc-path="Adding business logic |Working with templates|Template token syntax" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta charset="utf-8" />
@@ -27,7 +27,7 @@
         <link href="../Skins/Fluid/Stylesheets/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
         <link href="../Skins/Fluid/Stylesheets/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
         <link href="../Skins/Fluid/Stylesheets/Print.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
-        <link href="../Resources/Stylesheets/Main_Styles.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/ib_platform.css" rel="stylesheet" type="text/css" />
         <link rel="apple-touch-icon" sizes="180x180" href="../Skins/Favicons/apple-touch-icon.png" />
         <link rel="shortcut icon" href="../Skins/Favicons/favicon-32x32.png" />
         <link rel="icon" sizes="96x96" href="../Skins/Favicons/favicon-96x96.png" />
@@ -134,8 +134,8 @@
                             </nav>
                             <div class="body-container">
                                 <div data-mc-content-body="True">
-                                    <div class="sel-dropdown">Documentation Version 
-			<select id="versionSelect"><option value="default">6.10.0</option><option value="v6.9.0">6.9.0</option><option value="v6.8.0">6.8.0</option><option value="v6.7.4">6.7.4</option></select><script>/* <![CDATA[ */
+                                    <div style=" text-align: right; color:white; font-size: 9pt; background:#001649 ; margin-bottom: 15px; padding: 4px 12px; ">Documentation Version 
+			<select id="versionSelect"><option value="default">6.9.0</option><option value="v6.8.0">6.8.0</option><option value="v6.7.4">6.7.4</option><option value="v6.7.2">6.7.2</option></select><script>/* <![CDATA[ */
 				const select = document.querySelector('#versionSelect');
 				select.addEventListener('change', function() {
 				const selectedVersion = this.value;
@@ -184,38 +184,11 @@
                                                     <img src="../img/Rendered_Fields_with_.png#langCode" alt="" />
                                                 </p>
                                                 <p>Likewise, users can leverage various other merge tokens <code>#label</code>, <code>#text</code> and <code>#help</code> with <code>#langCode</code> to support multi-lingual report generations.</p>
-                                                <h2 id="ObjectHelpMergeTokens" data-magellan-target="ObjectHelpMergeTokens"><a name="Object"></a>Object Help Merge Tokens</h2>
-                                                <p>With the introduction of <b>Object Help Merge Token</b> <code>{!#OBJ.&lt;Object Integration Name&gt;#help}</code> support from <span class="mc-variable IB.ProductName variable">Platform</span> 6.10, users can expect enhanced readability and consistency across help documentation and implementations, as the format for all Object merge tokens is now standardized. This feature includes support for the new merge token and improved guidelines for using various Object tokens.</p>
-                                                <h3 id="SupportedObjectHelpMergeTokens" data-magellan-target="SupportedObjectHelpMergeTokens">Supported Object Help Merge Tokens</h3>
-                                                <p>The following merge tokens are now supported in addition to those previously available. It is recommended to use the tokens listed below for clarity and uniformity:</p>
-                                                <ul>
-                                                    <li>
-                                                        <p>Object Id: <code>{!#OBJ.&lt;Object Integration Name&gt;#id}</code></p>
-                                                    </li>
-                                                    <li>
-                                                        <p>Object Label: <code>{!#OBJ.&lt;Object Integration Name&gt;#label}</code></p>
-                                                    </li>
-                                                    <li>
-                                                        <p>Object Description: <code>{!#OBJ.&lt;Object Integration Name&gt;#description}</code></p>
-                                                    </li>
-                                                    <li>
-                                                        <p>Object Help Description: <code>{!#OBJ.&lt;Object Integration Name&gt;#help}</code></p>
-                                                    </li>
-                                                </ul>
-                                                <div class="note"><b>Note</b>: In <span class="mc-variable IB.ProductName variable">Platform</span> version 6.9, the tokens <code>{!#OBJ_DESCRIPTION.&lt;Object Integration Name&gt;}</code> and <code>{!#OBJ_LABEL.&lt;Object Integration Name&gt;#text}</code> were introduced. These tokens are no longer supported from version 6.10. Users are advised to use <code>{!#OBJ.&lt;Object Integration Name&gt;#description}</code> and <code>{!#OBJ.&lt;Object Integration Name&gt;#label}</code> tokens to retrieve the object description and label, respectively.</div>
-                                                <h2 id="ButtonHelpMergeToken" data-magellan-target="ButtonHelpMergeToken"><a name="Button"></a>Button Help Merge Token</h2>
-                                                <p>In addition to Object merge tokens, a Help merge token for buttons is also implemented to allow integration of help descriptions specific to buttons using the format: </p>
-                                                <p class="Code_Snippet_grayed">{!#BUTTON.&lt;integrationName&gt;#help#fr}.</p>
-                                                <h2 id="WorkflowActionHelpMergeToken" data-magellan-target="WorkflowActionHelpMergeToken"><a name="Workflow"></a>Workflow Action Help Merge Token</h2>
-                                                <p>A Help merge token for workflow actions is also implemented to allow integration of help descriptions specific to workflow using the format:</p>
-                                                <p class="Code_Snippet_grayed">{!#WF_ACTION.&lt;integrationName&gt;#help#fr}.</p>
-                                                <div class="note"><b>Note</b>: Integration names are mandatory for Object, Button and Workflow Help Merge Tokens</div>
-                                                <p>&#160;</p>
                                             </div>
                                         </div>
                                         <div class="menu-container">
-                                            <div data-sticky-container="" id="_xXI39EOmE6l3fjDSSLhsw">
-                                                <div class="sticky sticky-menu" style="width:100%" data-sticky="" data-top-anchor="_xXI39EOmE6l3fjDSSLhsw:top" data-bottom-anchor="contentBody:bottom" data-scroll-container=".body-container" data-sticky-on="small" data-scroll-container-on="only screen and (min-width: 1280px)">
+                                            <div data-sticky-container="" id="FLDUFPB_ykaegqzBVX6CuA">
+                                                <div class="sticky sticky-menu" style="width:100%" data-sticky="" data-top-anchor="FLDUFPB_ykaegqzBVX6CuA:top" data-bottom-anchor="contentBody:bottom" data-scroll-container=".body-container" data-sticky-on="small" data-scroll-container-on="only screen and (min-width: 1280px)">
                                                     <ul data-magellan="" data-animation-duration="250" data-active-class="selected" data-scroll-container=".body-container" data-scroll-container-on="only screen and (min-width: 1280px)" class="nocontent menu _Skins_topic_menu mc-component">
                                                         <li class="tree-node"><a href="#MultilingualTokens">Multilingual Tokens</a>
                                                         </li>
@@ -231,18 +204,6 @@
                                                                         </li>
                                                                     </ul>
                                                                 </li>
-                                                                <li class="tree-node"><a href="#ObjectHelpMergeTokens">Object Help Merge Tokens</a>
-                                                                </li>
-                                                                <li>
-                                                                    <ul>
-                                                                        <li class="tree-node"><a href="#SupportedObjectHelpMergeTokens">Supported Object Help Merge Tokens</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                                <li class="tree-node"><a href="#ButtonHelpMergeToken">Button Help Merge Token</a>
-                                                                </li>
-                                                                <li class="tree-node"><a href="#WorkflowActionHelpMergeToken">Workflow Action Help Merge Token</a>
-                                                                </li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -251,7 +212,7 @@
                                         </div>
                                     </div>
                                     <div class="panel">
-                                        <div class="right-align"><a class="footer1" href="https://www.linkedin.com/company/infiniteblue/" target="_blank"><img src="../Resources/Images/Home/linkedin.png" alt="Linkedin" style="width: 35px;height: 35px;" /></a><a class="footer1last" href="https://www.youtube.com/channel/UCRa_FE0f3k9KJrNJyAT39Hg/featured" target="_blank"><img src="../Resources/Images/Home/youtube.png" alt="YouTube" style="width: 35px;height: 35px;" /></a>
+                                        <div class="right-align"><a class="footer1" href="https://www.linkedin.com/company/infiniteblue/" target="_blank"><img src="https://img.icons8.com/ios-filled/25/0572ed/linkedin-2--v1.png" alt="Linkedin" /></a><a class="footer1" href="https://twitter.com/InfiniteBlueHQ" target="_blank"><img src="https://img.icons8.com/ios-filled/25/0572ed/twitter.png" alt="Twitter" /></a><a class="footer1last" href="https://www.youtube.com/channel/UCRa_FE0f3k9KJrNJyAT39Hg/featured" target="_blank"><img src="https://img.icons8.com/ios-glyphs/25/0572ed/youtube-play.png" alt="YouTube" /></a>
                                         </div>
                                         <div class="right-align-2"><a class="footer2" href="https://www.infiniteblue.com" target="_blank">Copyright © 2024 Infinite Blue. All Rights Reserved.</a>
                                         </div>
