@@ -22,8 +22,10 @@
 	nav.title-bar
 	{
 		display: none;
-		background: transparent url('Images/ib-topic-hero-2.jpg') no-repeat center top;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/ib-topic-hero-2.jpg') no-repeat center top;
+		background-repeat: no-repeat;
+		background: #001649 none;
+		-pie-background: #001649;
+		background-position: center top;
 	}
 
 	/* Side Navigation Menu styles */
@@ -410,8 +412,8 @@
 
 	.title-bar-layout a.logo
 	{
-		background: transparent url('Images/WHITE_InfiniteBlue_Horizontal_Logo_30px.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/WHITE_InfiniteBlue_Horizontal_Logo_30px.png') no-repeat center center;
+		background: transparent url('Images/White_EVBG-InfiniteBlue_Horizontal_Logo-50px.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/White_EVBG-InfiniteBlue_Horizontal_Logo-50px.png') no-repeat center center;
 	}
 
 	.main-section > .outer-row

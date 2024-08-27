@@ -279,10 +279,12 @@ nav.title-bar
 	padding: 10px 0;
 	line-height: inherit;
 	display: block;
-	padding-top: 1em;
-	padding-bottom: 1em;
-	background: transparent url('Images/ib-topic-hero-2.jpg') no-repeat center top;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/ib-topic-hero-2.jpg') no-repeat center top;
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-top: 0.75em;
+	padding-bottom: 0.75em;
+	background: #001649 none;
+	-pie-background: #001649;
 }
 
 nav.title-bar .menu-icon
@@ -325,9 +327,10 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
-	min-height: 40px;
+	min-height: 50px;
 	align-self: center;
 	justify-content: flex-start;
+	flex-basis: auto;
 }
 
 .title-bar-layout a.logo
@@ -337,11 +340,11 @@ nav.title-bar .menu-icon
 	margin: 0;
 	z-index: 1;
 	display: block;
-	width: 187px;
-	height: 30px;
+	width: 190px;
+	height: 50px;
 	align-self: center;
-	background: transparent url('Images/WHITE_InfiniteBlue_Horizontal_Logo_30px.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/WHITE_InfiniteBlue_Horizontal_Logo_30px.png') no-repeat center center;
+	background: transparent url('Images/White_EVBG-InfiniteBlue_Horizontal_Logo-50px.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/White_EVBG-InfiniteBlue_Horizontal_Logo-50px.png') no-repeat center center;
 }
 
 .title-bar-container
@@ -409,7 +412,7 @@ nav.title-bar .menu-icon
 	border-bottom-right-radius: 5px;
 	border-bottom-left-radius: 5px;
 	color: #0572ed;
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 1em;
 	padding-left: 15px;
 	background-color: #ffffff;
@@ -739,7 +742,7 @@ div.central-dropdown-content > a:hover
 .central-account-text
 {
 	color: #0572ed;
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 14px;
 	text-decoration: none;
 }
@@ -780,7 +783,7 @@ div.central-dropdown-content > a:hover
 	-webkit-box-shadow: 0px 1px 4px 0px #cccccc;
 	-moz-box-shadow: 0px 1px 4px 0px #cccccc;
 	box-shadow: 0px 1px 4px 0px #cccccc;
-	font-family: Tenon;
+	font-family: Inter;
 	margin-bottom: 25px;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -950,7 +953,7 @@ div.central-dropdown-content > a:hover
 
 .knowledge-panel-container .micro-response
 {
-	font-family: Tenon;
+	font-family: Inter;
 }
 
 .knowledge-panel-container.micro-content-truncated-mode .micro-response
@@ -961,7 +964,7 @@ div.central-dropdown-content > a:hover
 .knowledge-panel-container .micro-response-title a
 {
 	color: #2200c1;
-	font-family: Tenon;
+	font-family: Inter;
 	text-decoration: underline;
 }
 
@@ -994,7 +997,7 @@ div.central-dropdown-content > a:hover
 .knowledge-panel-container .micro-response-url cite
 {
 	color: #0e774a;
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 0.9em;
 	font-style: normal;
 }
@@ -1017,7 +1020,7 @@ div.central-dropdown-content > a:hover
 
 .menu-icon-container
 {
-	min-height: 40px;
+	min-height: 50px;
 }
 
 .off-canvas-wrapper-inner .outer-row
@@ -1086,7 +1089,7 @@ div.central-dropdown-content > a:hover
 .micro-content-proxy.faq .micro-content-phrase span
 {
 	color: #606060;
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 1.3em;
 	font-weight: bold;
 	text-decoration: none;
@@ -1104,7 +1107,7 @@ div.central-dropdown-content > a:hover
 
 .micro-content-proxy.faq .proxy-title
 {
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 1.5em;
 	font-weight: bold;
 	padding-bottom: 10px;
@@ -1112,7 +1115,7 @@ div.central-dropdown-content > a:hover
 
 .micro-content-proxy.faq .micro-response
 {
-	font-family: Tenon;
+	font-family: Inter;
 }
 
 .micro-content-proxy.faq.micro-content-truncated-mode .micro-response
@@ -1123,7 +1126,7 @@ div.central-dropdown-content > a:hover
 .micro-content-proxy.faq .micro-response-title a
 {
 	color: #2200c1;
-	font-family: Tenon;
+	font-family: Inter;
 	text-decoration: underline;
 }
 
@@ -1156,7 +1159,7 @@ div.central-dropdown-content > a:hover
 .micro-content-proxy.faq .micro-response-url cite
 {
 	color: #0e774a;
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 0.9em;
 	font-style: normal;
 }
@@ -1701,7 +1704,7 @@ div.central-dropdown-content > a:hover
 
 #resultList .glossary .definition
 {
-	font-family: Tenon;
+	font-family: Inter;
 }
 
 #resultList .glossary
@@ -1716,7 +1719,7 @@ div.central-dropdown-content > a:hover
 
 #resultList .glossary .term
 {
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 1.5em;
 	margin-bottom: 10px;
 }
@@ -1749,7 +1752,7 @@ div.central-dropdown-content > a:hover
 h1#results-heading
 {
 	color: #393f45;
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 1.5em;
 	font-weight: bold;
 	font-style: normal;
@@ -1815,7 +1818,7 @@ h1#results-heading
 
 .featured-snippets-container .micro-response
 {
-	font-family: Tenon;
+	font-family: Inter;
 }
 
 .featured-snippets-container.micro-content-truncated-mode .micro-response
@@ -1891,7 +1894,7 @@ h1#results-heading
 	border-top: solid 1px #fafafc;
 	border-bottom: solid 1px #fafafc;
 	color: #0572ed;
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 1em;
 	margin-left: 5px;
 	margin-right: 5px;
@@ -1912,7 +1915,7 @@ h1#results-heading
 #pagination a#selected
 {
 	color: #0572ed;
-	font-family: Tenon;
+	font-family: Inter;
 	font-weight: normal;
 	border-top: solid 1px #e2e2e6;
 	text-decoration: underline;
@@ -1920,13 +1923,13 @@ h1#results-heading
 
 #resultList .description
 {
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 0.8em;
 }
 
 #resultList .gs-snippet
 {
-	font-family: Tenon;
+	font-family: Inter;
 	font-size: 0.8em;
 }
 
@@ -2023,7 +2026,7 @@ ul.sidenav li a
 	padding-top: 0.5rem;
 	padding-bottom: 0.5rem;
 	color: #001649;
-	font-family: Helvetica;
+	font-family: Inter;
 	font-size: 10pt;
 	line-height: 1.6em;
 	text-align: left;
@@ -2076,14 +2079,14 @@ ul.sidenav li a.selected
 	border-bottom-right-radius: 3px;
 	border-bottom-left-radius: 3px;
 	color: #ffffff;
-	font-family: Helvetica;
+	font-family: Inter;
 	font-weight: normal;
 	background-color: #001649;
 }
 
 ul.sidenav ul > li > a.selected
 {
-	font-family: Helvetica;
+	font-family: Inter;
 	text-align: left;
 	background-color: #001649;
 }

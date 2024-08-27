@@ -10,12 +10,12 @@
 
 @font-face 
 {
-	font-family: "Helvetica";
+	font-family: "Inter";
 }
 
 *
 {
-	font-family: Helvetica;
+	font-family: Inter;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 }
@@ -51,7 +51,7 @@
 *[outputclass="synmeta"]
 {
 	font-size: 170%;
-	font-family: "Helvetica";
+	font-family: "Inter";
 }
 
 *[outputclass="keylabel"]
@@ -73,7 +73,7 @@
 {
 	display: block;
 	font-weight: normal;
-	font-family: Helvetica;
+	font-family: Inter;
 	color: black;
 	margin: 0.3em 0;
 }
@@ -82,7 +82,7 @@
 {
 	display: block;
 	font-weight: normal;
-	font-family: Helvetica;
+	font-family: Inter;
 	background-color: inherit;
 	margin: 0.3em 0;
 }
@@ -360,20 +360,17 @@ h1
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	color: #0572ed;
-	font-family: 'Helvetica';
-	font: Helvetica;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	font-size: 2em;
 	font-weight: bold;
 	text-align: left;
+	font-family: 'Inter Black';
 }
 
 h2
 {
 	color: #0572ed;
-	font: Helvetica;
-	font-family: 'Helvetica';
 	font-style: normal;
 	mc-hyphenate: never;
 	vertical-align: baseline;
@@ -381,31 +378,31 @@ h2
 	font-size: 1.8em;
 	font-weight: bold;
 	text-align: left;
+	font-family: 'Inter ExtraBold';
 }
 
 h3
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font: Helvetica;
-	font-family: 'Helvetica';
 	color: #0572ed;
 	mc-heading-level: 3;
 	font-size: 1.6em;
 	font-weight: bold;
 	text-align: left;
+	font-family: 'Inter ExtraBold';
 }
 
 h4
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
 	mc-heading-level: 0;
 	font-size: 1.5em;
 	font-weight: bold;
 	color: #001649;
 	text-align: left;
+	font-family: 'Inter ExtraBold';
 }
 
 h5
@@ -415,10 +412,10 @@ h5
 	vertical-align: baseline;
 	font-weight: normal;
 	font-size: 1.4em;
-	font-family: 'Helvetica';
 	color: #001649;
 	font-weight: bold;
 	text-align: left;
+	font-family: 'Inter ExtraBold';
 }
 
 h6
@@ -426,23 +423,23 @@ h6
 	mc-heading-level: 0;
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: Helvetica;
 	font-weight: normal;
 	font-size: 1.3em;
 	color: #001649;
 	font-weight: bold;
 	text-align: left;
+	font-family: 'Inter ExtraBold';
 }
 
 p.TOC1
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: Helvetica;
 	font-size: 14pt;
 	mc-auto-number-format: '{n}. ';
 	mc-auto-number-offset: 2px;
 	color: #0572ed;
+	font-family: Inter;
 }
 
 ::marker
@@ -467,7 +464,7 @@ span.mc-variable
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 }
 
 figcaption
@@ -582,12 +579,14 @@ option
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 optgroup
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 datalist
@@ -600,12 +599,14 @@ q
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 nav
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 header
@@ -624,18 +625,21 @@ aside
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 article
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 var
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 tt
@@ -648,6 +652,7 @@ sub
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 strong
@@ -672,7 +677,7 @@ u
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
+	font-family: Inter;
 }
 
 small
@@ -697,6 +702,7 @@ i
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 em
@@ -721,25 +727,28 @@ big
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 b
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
+	font-family: Inter;
 }
 
 acronym
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: 'Inter Black';
 }
 
 abbr
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 dir
@@ -752,6 +761,7 @@ menu
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 center
@@ -770,36 +780,42 @@ blockquote
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 address
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 caption
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 tfoot
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 tbody
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 thead
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 a.Popup
@@ -890,10 +906,10 @@ a
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
 	color: #0572ed;
 	text-decoration: none;
 	cursor: pointer;
+	font-family: Inter;
 }
 
 hr
@@ -935,8 +951,8 @@ select
 select.h2
 {
 	color: #0572ed;
-	font: Helvetica;
-	font-family: 'Helvetica';
+	font: Inter;
+	font-family: 'Inter';
 	font-style: normal;
 	mc-hyphenate: never;
 	vertical-align: baseline;
@@ -969,12 +985,14 @@ tr
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 ol
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 span.state
@@ -1083,7 +1101,7 @@ span
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
+	font-family: Inter;
 }
 
 li::marker
@@ -1151,27 +1169,27 @@ p.TOC4
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: Helvetica;
 	font-size: 12.5;
 	color: #0572ed;
+	font-family: Inter;
 }
 
 p.TOC3
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: Helvetica;
 	font-size: 14px;
 	color: #0572ed;
+	font-family: Inter;
 }
 
 p.TOC2
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: Helvetica;
 	font-size: 13.5 pt;
 	color: #0572ed;
+	font-family: Inter;
 }
 
 p.ListOf
@@ -1410,6 +1428,16 @@ div.MCMiniTocBox_0
 	clear: both;
 }
 
+label
+{
+	font-family: Inter;
+}
+
+td
+{
+	font-family: Inter;
+}
+
 @media screen
 {
 	*[class~="topic/topic"]
@@ -1502,18 +1530,17 @@ h1.concepttitle
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	color: #0572ed;
-	font-family: 'Helvetica';
-	font: Helvetica;
 	mc-heading-level: 1;
 	font-size: 1.8em;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	font-weight: bold;
+	font-family: 'Inter ExtraBold';
 }
 
 html.concept
 {
-	font-family: Helvetica;
+	font-family: Inter;
 	mc-hyphenate: never;
 }
 
@@ -1527,13 +1554,13 @@ body.conbody
 p
 {
 	text-align: justify;
-	font-family: 'Helvetica';
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
 	line-height: 21px;
 	margin-top: 0pt;
 	margin-bottom: 9px;
+	font-family: Inter;
 }
 
 div.section
@@ -1544,20 +1571,19 @@ div.section
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	font: Se;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 }
 
 h2.sectiontitle
 {
-	font-family: 'Helvetica';
 	font-style: normal;
-	font: Helvetica;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	mc-heading-level: 2;
 	font-weight: normal;
 	font-size: 1.7em;
 	color: #0572ed;
+	font-family: 'Inter ExtraBold';
 }
 
 div.fig
@@ -1574,6 +1600,7 @@ ul
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	padding-inline-start: 10px;
+	font-family: Inter;
 }
 
 li
@@ -1584,8 +1611,8 @@ li
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	font-size: 14px;
-	font-family: 'Helvetica';
 	padding-inline-start: 10px;
+	font-family: Inter;
 }
 
 span.uicontrol
@@ -1593,7 +1620,7 @@ span.uicontrol
 	font-weight: bold;
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
+	font-family: Inter;
 }
 
 span.cite
@@ -1618,13 +1645,12 @@ h1.tasktitle
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	color: #0572ed;
-	font-family: 'Helvetica';
-	font: Helvetica;
 	mc-heading-level: 1;
 	font-size: 1.8em;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	font-weight: bold;
+	font-family: 'Inter ExtraBold';
 }
 
 html.task
@@ -1666,7 +1692,7 @@ div.stepresult
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 }
 
 div.result
@@ -1812,7 +1838,7 @@ div.topic-note
 	border-left-width: 2px;
 	border-top-color: #f37c20;
 	border-top-width: 2px;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	text-align: center;
 }
@@ -1872,7 +1898,7 @@ div.choice
 {
 	mc-hyphenate: never;
 	vertical-align: baseline;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 }
 
 ol.substeps
@@ -1919,18 +1945,17 @@ h1.referencetitle
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	color: #0572ed;
-	font-family: 'Helvetica';
-	font: Helvetica;
 	mc-heading-level: 1;
 	font-size: 1.8em;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	font-weight: bold;
+	font-family: 'Inter ExtraBold';
 }
 
 html.reference
 {
-	font-family: Helvetica;
+	font-family: Inter;
 	mc-hyphenate: never;
 }
 
@@ -2042,14 +2067,13 @@ span.apiname
 h1.title
 {
 	font-style: normal;
-	font-family: 'Helvetica';
-	font: Helvetica;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	mc-heading-level: 0;
 	font-weight: bold;
 	color: #0572ed;
 	font-size: 4 em;
+	font-family: 'Inter ExtraBold';
 }
 
 p.title
@@ -2057,29 +2081,32 @@ p.title
 	line-height: 15px;
 	color: #ffffff;
 	text-decoration: none;
-	font-family: 'Helvetica';
 	font-size: 2em;
-	font: Helvetica;
 	text-align: right;
 	mc-hyphenate: never;
 	vertical-align: baseline;
+	font-family: Inter;
 }
 
 h2.title
 {
-	font-family: 'Helvetica';
 	font-style: normal;
-	font: Helvetica;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	mc-heading-level: 0;
 	font-weight: bold;
 	color: #0572ed;
 	font-size: 4em;
+	font-family: 'Inter ExtraBold';
 }
 
 @media only screen and (max-device-width: 1279px)
 {
+	.panel
+	{
+		display: none;
+	}
+
 	div.NewRowClass1 > div:nth-child(1)
 	{
 		width: 33.33333%;
@@ -2245,13 +2272,13 @@ codeph.codeph
 	{
 		color: #0572ed;
 		font-size: 1.4em;
-		font-family: 'Helvetica';
+		font-family: 'Inter';
 		font-weight: bold;
 	}
 
 	h6
 	{
-		font-family: 'Helvetica';
+		font-family: 'Inter';
 		color: #0572ed;
 		font-size: 1.3em;
 		font-weight: bold;
@@ -2279,7 +2306,7 @@ codeph.codeph
 
 	drophead
 	{
-		font-family: 'Helvetica';
+		font-family: 'Inter';
 		font-size: 1.8em;
 	}
 
@@ -2302,15 +2329,14 @@ h1.Specialclass
 
 p.h2
 {
-	font-family: 'Helvetica';
 	font-size: 18pt;
 	font-weight: bold;
 	font-style: normal;
-	font: Helvetica;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	mc-heading-level: 0;
 	color: #0572ed;
+	font-family: Inter;
 }
 
 div.note-list
@@ -2336,13 +2362,12 @@ h1.displayonly
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	color: #0572ed;
-	font-family: 'Helvetica';
-	font: Helvetica;
 	font-size: 1.8em;
 	mc-hyphenate: never;
 	vertical-align: baseline;
 	mc-heading-level: 0;
 	font-weight: bold;
+	font-family: 'Inter ExtraBold';
 }
 
 div.MCMiniTocBox,
@@ -2684,28 +2709,28 @@ ul.sidenav span.submenu-toggle
 
 ul.sidenav span.submenu-toggle-container
 {
-	background-image: url(../Images/side-nav-menu/menu-open.svg);
+	background-image: url('../Images/side-nav-menu/menu-open.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 ul.sidenav span.submenu-toggle-container[aria-expanded="true"]
 {
-	background-image: url(../Images/side-nav-menu/menu-close.svg);
+	background-image: url('../Images/side-nav-menu/menu-close.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 ul.sidenav span.submenu-toggle-container:hover
 {
-	background-image: url(../Images/side-nav-menu/menu-open.svg);
+	background-image: url('../Images/side-nav-menu/menu-open.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 ul.sidenav span.submenu-toggle-container[aria-expanded="true"]:hover
 {
-	background-image: url(../Images/side-nav-menu/menu-close.svg);
+	background-image: url('../Images/side-nav-menu/menu-close.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -2777,7 +2802,7 @@ p.footer
 	height: 70px;
 	width: 100%;
 	position: absolute;
-	bottom: 0;
+	bottom: 5px;
 }
 
 .right-align
@@ -2786,7 +2811,7 @@ p.footer
 	right: 14px;
 	bottom: 20px;
 	text-align: right;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
@@ -2800,7 +2825,7 @@ p.footer
 	right: 14px;
 	bottom: 1px;
 	text-align: right;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
@@ -2822,7 +2847,7 @@ p.footer
 {
 	text-align: left;
 	float: left;
-	font-family: 'Helvetica';
+	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
@@ -2962,6 +2987,7 @@ ul.menu > ul > ul > li
 th
 {
 	background: #ececec;
+	font-family: Inter;
 }
 
 th.h2
@@ -3309,13 +3335,13 @@ div.sel-dropdown
 p.select
 {
 	text-align: right;
-	font-family: 'Helvetica';
 	font-style: normal;
 	font-weight: normal;
 	font-size: 14px;
 	line-height: 21px;
 	margin-top: 0pt;
 	margin-bottom: 0pt;
+	font-family: Inter;
 }
 
 /* Select Dropdown styles End */
